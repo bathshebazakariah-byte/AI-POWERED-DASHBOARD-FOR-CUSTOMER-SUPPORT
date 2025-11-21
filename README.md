@@ -1,5 +1,6 @@
 # AI-POWERED-DASHBOARD-FOR-CUSTOMER-SUPPORT
 AI powered dashboard for customer support ticket clustering and feature improvement.
+
 OVERVIEW:
 
 This project aims to revolutionize how Product Managers (PMs) interact with customer feedback by transforming overwhelming volumes of unstructured support tickets into actionable, product-improving insights, delivered via an intelligent dashboard.
